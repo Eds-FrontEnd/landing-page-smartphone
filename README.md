@@ -119,6 +119,14 @@ Boas práticas aplicadas:
 
 ---
 
+# 📸 Preview
+
+### 🚀 Conheça a Landing Page
+
+![Preview do Projeto](assets/images/mockup/landing-page-mockup.png)
+
+---
+
 # 💡 Objetivos do Projeto
 
 Este projeto foi desenvolvido para praticar conceitos importantes do desenvolvimento Front-End, como:
